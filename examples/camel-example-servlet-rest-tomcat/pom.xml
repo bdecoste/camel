@@ -25,6 +25,9 @@
         <version>2.16-SNAPSHOT</version>
     </parent-->
 
+    <groupId>org.apache.camel</groupId>
+    <version>2.16-SNAPSHOT</version>
+
     <artifactId>camel-example-servlet-rest-tomcat</artifactId>
     <name>Camel :: Example :: Servlet REST Tomcat</name>
     <description>An example using Servlet REST with Apache Tomcat</description>
