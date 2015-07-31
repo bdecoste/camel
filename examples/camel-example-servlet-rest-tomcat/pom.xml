@@ -35,6 +35,7 @@
         <logback-version>1.1.2</logback-version>
         <swagger.url>https://github.com/swagger-api/swagger-ui/archive/v${swagger-ui.version}</swagger.url>
         <destDir>target/swagger-ui</destDir>
+        <MAVEN_ARGS>package -DskipTests -Dcom.redhat.xpaas.repo.redhatga</MAVEN_ARGS>
     </properties>
 
     <repositories>
