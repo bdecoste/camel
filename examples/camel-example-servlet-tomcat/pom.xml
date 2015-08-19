@@ -30,6 +30,10 @@
     <description>An example using Camel Servlet with Apache Tomcat</description>
     <packaging>war</packaging>
 
+    <prerequisites>
+      <maven>3.0.5</maven>
+    </prerequisites>
+
     <repositories>
     <repository>
       <id>apache.snapshots</id>
