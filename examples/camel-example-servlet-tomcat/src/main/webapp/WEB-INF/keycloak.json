@@ -1,0 +1,13 @@
+{
+  "realm" : "demo",
+  "resource" : "helloworld",
+  "realm-public-key" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkaeADZMPheH5gj246y8dwk5b7cyPWshYgEXf+PYK3sC33h0QsR06rQnnxuyjk/3NgVHoy9/vUXgsoDvwtIp3tl09sGKMoLsebOMynTm72l+u5TBg6F4M7+J4YmK8CMALKzektBqmoQVTfgihvqPuPPOa7sEp14/YMRqiS11SOP821W9awWIz9YRku38DEpU09pQWKZfx/lNyhcxruoby1PvfaahOs0mzCct4sqQrVwIxQ2FcdEsJ2T/tULYhS/XS1boIqNtlMMUixtk2sCBx/N2q+685i3Kf9p5cn/h2p/ma/1tb+9iBljRMy0SZt3SWEeMwxUAN8tkjwj3iEqjNswIDAQAB",
+  "auth-server-url" : "http://keycloak.cloudapps.example.com/auth",
+  "ssl-required" : "none",
+  "enable-basic-auth" : true,
+   "credentials" : {
+      "secret" : "password"
+   },
+   "disable-trust-manager": true,
+   "allow-any-hostname" : true,
+}
