@@ -30,9 +30,14 @@
     <description>An example using Camel Servlet with Apache Tomcat</description>
     <packaging>war</packaging>
 
-    <prerequisites>
+    <!--prerequisites>
       <maven>3.0.5</maven>
-    </prerequisites>
+    </prerequisites-->
+
+    <properties>
+       <!-- enforce to require using at least this maven version -->
+       <maven-enforcer-require-maven-version>3.0.5</maven-enforcer-require-maven-version>
+    </properties>
 
     <repositories>
     <repository>
