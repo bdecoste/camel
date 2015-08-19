@@ -1,7 +1,7 @@
 {
   "realm" : "demo",
   "resource" : "helloworld",
-  "realm-public-key" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyJd3eEIHfiRzfRJ4Vd5F1seI4raNOAo2IzZATioBMzEeBSrpPZ/Kk+zbdn9rvv/cOtbizH7/uO09FwK72aStqmI1gjOrWTeaH0TxST/3wYmgbZ4FUlT/2cKdCDD+v+EMHknEJSqdmvlumpznGBacvYSIVOVU/QaDiiF7sDT7C9v7KPgZMDNocxd6YDQX7sZMz+a7G7XwbQkgpuAj+X3Tvte6HSSiKIbMgoYQqNGMHD/4+tpL/D/iz5t3uMYAM9in9vDgb2RDL9Q+eg3d5eQEK/E/KeV5mdpbjH5A0DZF5pkKwW4OYFvfJpEQv32d74AxOdG4NRIBD1ZtLTggcATVHwIDAQAB",
+  "realm-public-key" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjSxVT+OvAf0jJpnXT5dUGEcScTWy6b3KRzJjRpID02Yf1LDS+xjrKoLcDVzVMmMuoYG6L9QzlJwGQ5N6sW/dxvqS/2W+j40m/P/0kckHqOe1xfVKNC2cbO++PTKbx6ZJTsIq9s+6OiUf/sCht0GnG0U9FU3SrpGfK/RxxlWlfgy9PcJ1wPy64FfgYGCY+sreICnmRbpah8eRBJ7eFlwgOFUFJGXN6iDp9Iaor2elrHWS5XWGr2fWjJiS7T8G8DXOqr8x9DvVjgwUyxsedJjXyZ58mFwniz6MmsFBpwADAKCimfJUwaQCc1uNH/61Mmdgql2+GKmsHbPxkgif2rME0wIDAQAB",
   "auth-server-url" : "http://keycloak.cloudapps.example.com/auth",
   "ssl-required" : "none",
   "enable-basic-auth" : true,
