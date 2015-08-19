@@ -9,5 +9,5 @@
       "secret" : "password"
    },
    "disable-trust-manager": true,
-   "allow-any-hostname" : true,
+   "allow-any-hostname" : true
 }
