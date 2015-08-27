@@ -49,7 +49,7 @@
     <url-pattern>/camel/*</url-pattern>
   </servlet-mapping>
 
-  <security-constraint>
+  <!--security-constraint>
         <web-resource-collection>
             <url-pattern>/*</url-pattern>
         </web-resource-collection>
@@ -65,7 +65,7 @@
 
     <security-role>
         <role-name>testrole</role-name>
-    </security-role>
+    </security-role-->
 
 </web-app>
   <!-- END SNIPPET: e1 -->
